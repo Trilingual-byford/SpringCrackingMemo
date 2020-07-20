@@ -6,7 +6,7 @@
 - spring-context-support spring IOC容器的扩展支持 子IOC容器等等？
 - spring-context-indexer Spring类的管理和Classpath扫描
 - spring-expression 表达式
-- spring-aop 实现AOP编程 实用了Asm,CGLIB,JDKProxy
+- spring-aop 实现AOP编程　使用了Asm,CGLIB,JDKProxy
 - spring-aspects 提供一套实际AOP编程的实现
 - spring-instrument 动态Class Loading????
 - spring-jdbc 实现JDBC
